@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Write CSS code here */
+.bg-container {
+  padding: 60px;
+  background-color: #f4faff;
+}
+.technology-heading {
+  color: #171f46;
+  font-size: 30px;
+  text-align: center;
+}
+.technology-description {
+  color: #64748b;
+  font-size: 18px;
+  text-align: center;
+}
+
+.list-container {
+  padding: 20px;
+  margin: 20px;
+}
+.ul-container li {
+  display: inline-block;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 16px;
+}
+.ul-container {
+  width: 400px;
+  list-style-type: none;
+}
