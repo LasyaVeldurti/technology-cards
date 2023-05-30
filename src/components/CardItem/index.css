@@ -15,9 +15,8 @@
 }
 
 /* Write CSS code here. */
-.card-image {
-  width: 40px;
-  height: 30px;
+.card-img {
+  float: right;
 }
 .card-container {
   width: 100%;

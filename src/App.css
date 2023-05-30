@@ -35,8 +35,9 @@ body {
   background-color: #ffffff;
   border-radius: 20px;
   margin: 16px;
+  width: 450px;
 }
 .ul-container {
-  width: 400px;
+  width: 100%;
   list-style-type: none;
 }
